@@ -1,2 +1,4 @@
-# holbertonSchool-lowLevelProgramming
-A repo on foundational knowledge in C, assembly code, compilers
+# Low level programming and C
+- Understanding the foundamentals principles of compiling, machine code, assembly code. 
+- Understanding the memory allocation system in C 
+-
