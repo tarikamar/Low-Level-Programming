@@ -1,5 +1,8 @@
-# Key notions 🚀
-   
+# Project summary 🚀
+Learning materials
+   - **Jeff Szuhay - Learn C Programming: A beginner's guide to learning C programming the easy and disciplined way** 📖
+   - [**Programiz C**](https://www.programiz.com/c-programming) 💻
+   - **Wikipedia** 📑 
 
 
       
