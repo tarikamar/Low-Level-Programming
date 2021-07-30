@@ -1,10 +1,9 @@
 # Key notions 🚀
+   
 
+
+      
 ## Compiler ⚙️
-
-
-                  
-
 
                       ┌─────────────┐
                       │ SOURCE CODE │
